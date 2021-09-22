@@ -1,7 +1,0 @@
-test/BookEntity$BookEntityBuilder.class
-test/BookMapper.class
-test/BookEntity.class
-test/Application.class
-test/BookDTOResponse.class
-test/BookRepository.class
-test/BookMapperImpl.class
